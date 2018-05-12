@@ -1,0 +1,59 @@
+_repo: Twenty-Four-Unusual-Stories-for-Boys-and-Girls_34618
+_version: 0.1.0
+alternative_title: 24 Unusual Stories for Boys and Girls
+contributor:
+  illustrators:
+  - agent_name: Petersham, Maud
+    aliases:
+    - Petersham, Maud Fuller
+    - Fuller, Maud
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '31375'
+    url: http://www.gutenberg.org/2009/agents/31375
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+  - agent_name: Petersham, Miska
+    aliases:
+    - Petrezselyem, Mihály
+    - Petrezselyem, Mihaly
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '31374'
+    url: http://www.gutenberg.org/2009/agents/31374
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tyler, Anna Cogswell
+    alias: Tyler, Anna C. (Anna Cogswell)
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '37125'
+    url: http://www.gutenberg.org/2009/agents/37125
+description: ''
+gutenberg_issued: '2010-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Short stories'
+tableOfContents: 'The convent free from care -- What the good-man does is sure to
+  be right! -- Where to lay the blame -- The winds, the birds, and the telegraph wires
+  -- Katcha and the devil -- The white dogs of Arran -- Wind an'' wave an'' wandherin
+  flame -- The king, the queen, and the bee -- The well of the world''s end -- Wings
+  -- Christmas stories: The Christmas cuckoo. The emperor''s vision. The voyage of
+  the wee red cap -- Greek legends: The curse of Echo. How the ass became a man again.
+  How Alexander the king got the water of life --  American Indian legends: The first
+  corn. Waukewa''s eagle -- Hallowe''en and mystery stories: The roll-call of the
+  reef. How Jan Brewer was piskey-laden. My grandfather Hendry Watty. Childe Rowland.
+  Tam o'' shanter. The boggart.'
+title: Twenty-Four Unusual Stories for Boys and Girls
+url: http://www.gutenberg.org/ebooks/34618
